@@ -23,7 +23,6 @@ import meme5Src from "@/assets/img-018.png";
 import tata from "@/assets/tata-tea-placeholder.jpg";
 import mamaearth from "@/assets/mamaearth-placeholder.jpg";
 import aiugc from "@/assets/ai-ugc-placeholder.jpg";
-import tataVideo from "@/assets/Tata-Tea-Ad.mp4.asset.json";
 
 const asset = (url: string) => ({ url });
 const portrait = asset(portraitSrc);
@@ -41,6 +40,7 @@ const meme2 = asset(meme2Src);
 const meme3 = asset(meme3Src);
 const meme4 = asset(meme4Src);
 const meme5 = asset(meme5Src);
+const tataVideo = asset("/videos/Tata-Tea-Ad.mp4");
 const mamaearthVideo = asset("/videos/MamaEarth-Ad.mp4");
 const aiUgcVideo = asset("/videos/ai-ugc-video.mp4");
 
