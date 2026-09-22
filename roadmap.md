@@ -9,3 +9,4 @@
 - [x] Merge “More Experiments” into Playground and remove its standalone section
 - [x] Remove the four placeholder Playground cards
 - [x] Use the supplied framed hero portrait and AI automation artwork in the closing section
+- [x] Connect project and playground cards to their live links (Zopper, Diggin, Shiv AI, DigiDZN)
